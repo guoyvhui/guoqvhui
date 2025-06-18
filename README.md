@@ -37,7 +37,7 @@ print(matrix)
 **其中执行`print(matrix)`可输出结果**
 
 **我最喜欢的环境管理工具是conda**
-<img src="https://github.com/lzh13670046089/nlp/blob/master/picture/%E6%88%AA%E5%9B%BE%202025-03-06%2016-35-59.png" width = 800>
+<img src="https://github.com/guoyvhui/guoqvhui/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250619021136.png" width = 800>
 
 **我可以在我的IDE上使用我建立的虚拟环境**
 <img src="https://github.com/guoyvhui/guoqvhui/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250619021131.png" width = 800>
