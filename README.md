@@ -1,5 +1,5 @@
 # 火男的自我介绍：
-<img src="[[https://github.com/lzh13670046089/nlp/blob/master/picture/%E7%AB%A0%E9%B1%BC%E5%93%A5.jpg](https://github.com/guoyvhui/guoqvhui/blob/main/9c527be109b49229360090899120fa3.jpg)](https://github.com/guoyvhui/guoqvhui/blob/main/9c527be109b49229360090899120fa3.jpg)" width =200>
+<img src="(https://github.com/guoyvhui/guoqvhui/blob/main/9c527be109b49229360090899120fa3.jpg)" width =200>
 
 **大家好，我是火男，**
 *我的身份是学生*
@@ -12,8 +12,8 @@
 ## 我的好朋友
 1. 胡桃
 2. 水三娘
+3.季盈盈
 
-~~3. 痞老板~~
 ### 重要坐标
 <https://github.com/lzh13670046089/nlp>
 ### 日常作息表
