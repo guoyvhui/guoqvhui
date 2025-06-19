@@ -1,17 +1,17 @@
-# 章鱼哥的自我介绍：
-<img src="https://github.com/lzh13670046089/nlp/blob/master/picture/%E7%AB%A0%E9%B1%BC%E5%93%A5.jpg" width =200>
+# 火男的自我介绍：
+<img src="[[https://github.com/lzh13670046089/nlp/blob/master/picture/%E7%AB%A0%E9%B1%BC%E5%93%A5.jpg](https://github.com/guoyvhui/guoqvhui/blob/main/9c527be109b49229360090899120fa3.jpg)](https://github.com/guoyvhui/guoqvhui/blob/main/9c527be109b49229360090899120fa3.jpg)" width =200>
 
-**大家好，我是章鱼哥，**
+**大家好，我是火男，**
 *我的身份是学生*
 
 ---
 ## 基础档案
 ### 外貌特征
-* 爱睡觉
-* 爱吃东西
+* 爱拔插头
+* 爱用连招
 ## 我的好朋友
-1. 海绵宝宝
-2. 派大星
+1. 胡桃
+2. 水三娘
 
 ~~3. 痞老板~~
 ### 重要坐标
@@ -19,9 +19,9 @@
 ### 日常作息表
 |早上|中午|晚上|
 |:---:|:---:|:---:|
-|睡觉|睡觉|睡觉|
+|打劫|打劫|打劫|
 ### 人生信条
->答案在路上，自由在风中
+>行走江湖，义气为先
 
 ---
 ## 我的专业是人工智能
